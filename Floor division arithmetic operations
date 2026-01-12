@@ -1,0 +1,31 @@
+1. 
+a = 17
+b = 5
+print(a // b)
+
+2.
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+print(num1 // num2)
+
+3.
+a = -17
+b = 5
+print(a // b)
+
+4.
+a = 29
+b = 6
+
+quotient = a // b
+remainder = a % b
+
+print("Quotient:", quotient)
+print("Remainder:", remainder)
+
+5.
+items = 23
+people = 4
+
+each_person = items // people
+print(each_person)
